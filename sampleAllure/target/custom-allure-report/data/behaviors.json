@@ -1,0 +1,43 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Login to HRM Application",
+    "children" : [ {
+      "name" : "Login with valid credentials",
+      "children" : [ {
+        "name" : "Login with valid credentials",
+        "uid" : "d3f62b0f5e93738",
+        "parentUid" : "22c4032e63f78a1adf80bf47d2cf6065",
+        "status" : "passed",
+        "time" : {
+          "start" : 1725069503307,
+          "stop" : 1725069512364,
+          "duration" : 9057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "22c4032e63f78a1adf80bf47d2cf6065"
+    }, {
+      "name" : "Login with invalid credentials",
+      "children" : [ {
+        "name" : "Login with invalid credentials",
+        "uid" : "5ea681d522b2fa2a",
+        "parentUid" : "7ebebbd67c67f021d31a5799feaf250f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1725069512416,
+          "stop" : 1725069521396,
+          "duration" : 8980
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7ebebbd67c67f021d31a5799feaf250f"
+    } ],
+    "uid" : "f8df2b161f5bad51a476f97542bcf9da"
+  } ]
+}

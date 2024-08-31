@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Login to HRM Application",
+    "children" : [ {
+      "name" : "Login with valid credentials",
+      "uid" : "d3f62b0f5e93738",
+      "parentUid" : "c6298c44eaa21f0e5b46d039cea593dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1725069503307,
+        "stop" : 1725069512364,
+        "duration" : 9057
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Login with invalid credentials",
+      "uid" : "5ea681d522b2fa2a",
+      "parentUid" : "c6298c44eaa21f0e5b46d039cea593dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1725069512416,
+        "stop" : 1725069521396,
+        "duration" : 8980
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c6298c44eaa21f0e5b46d039cea593dc"
+  } ]
+}

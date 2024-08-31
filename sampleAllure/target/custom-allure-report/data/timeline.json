@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Vijayasekarans-MacBook-Air.local",
+    "children" : [ {
+      "name" : "92466@Vijayasekarans-MacBook-Air.local.main(1)",
+      "children" : [ {
+        "name" : "Login with valid credentials",
+        "uid" : "d3f62b0f5e93738",
+        "parentUid" : "3ec5820bebdd588a731ee5fd6469c15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1725069503307,
+          "stop" : 1725069512364,
+          "duration" : 9057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login with invalid credentials",
+        "uid" : "5ea681d522b2fa2a",
+        "parentUid" : "3ec5820bebdd588a731ee5fd6469c15d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1725069512416,
+          "stop" : 1725069521396,
+          "duration" : 8980
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3ec5820bebdd588a731ee5fd6469c15d"
+    } ],
+    "uid" : "51acdd3df1bc07886679d69dfd9875eb"
+  } ]
+}
